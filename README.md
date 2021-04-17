@@ -1,6 +1,6 @@
 # BGEMBJATWDHATBTGIA
 
- A game @joostdejager and I made when we where 16 for a school project
+ A game [@JoostdeJager](https://github.com/joostdejager) and I made when we where 16 for a school project
  
  ## The game
  
